@@ -1,0 +1,22 @@
+body.dark-theme {
+    background-color: black;
+    color: white;
+}
+
+body.dark-theme a {
+    color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+span.brba {
+    font-size: 1.2em;
+    color: white;
+    background-color: green;
+}
+
+.text-center {
+    text-align: center;
+}
